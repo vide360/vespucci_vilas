@@ -1,0 +1,66 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_3C9745E4_2181_5260_41BD_258B031627DC.source = https://wa.me/5583981082781
+LinkBehaviour_320D3A05_2181_D1A0_4190_405624D876AA.source = https://wa.me/5583981082781
+
+## Media
+
+### Audio
+audiores_3B5965DD_2180_D2A1_41AE_1109608E2D4C.mp3Url = media/audio_396C8C5F_2183_71A0_41BD_383065DFBD42_pt.mp3
+
+### Title
+panorama_04227B0B_0ECE_5578_41AA_62FDA3180025.label = Closet Suíte 02
+panorama_042256D4_0ECE_7CE8_4190_3C59501C19E2.label = Closet suíte master
+panorama_042172BF_0ECE_5498_41A8_0C1259A6BB00.label = Corredor cozinha
+panorama_2DAC0AC3_2187_56A0_4196_151DB2225014.label = Corredor escada
+panorama_04228E76_0ECE_4FA8_419C_66914FBEF6FF.label = Cozinha 01
+panorama_0422D9B9_0ECE_3498_41A5_74C0E54095A9.label = Cozinha 02
+panorama_04229540_0ECE_DDE8_4193_39563F03864E.label = Cozinha Gourmet
+panorama_2AFE76BA_2187_7EE0_41BA_8D5FD449303D.label = Escada
+panorama_036BD4A0_0FD2_E95C_41AA_686032097726.label = Frente
+panorama_2AFC120D_2187_51A0_41B8_B74ED49E0974.label = Frente quartos 1 andar
+panorama_04229C2B_0ECE_F3B8_4181_36784848AE0C.label = Garagem
+panorama_0422A78D_0ECE_DD78_416E_D414F4D19CF8.label = Gazebo
+panorama_2AFC8DA2_2187_52E0_419E_657DD91921A5.label = Lavabo
+panorama_04211E78_0ECE_4F98_4194_FD23B1D1A5F0.label = Quarto 03
+panorama_0421A9FF_0ECE_5498_41A5_2CF66C70FED0.label = Quintal
+panorama_0421E60A_0ECE_7F78_41AA_84C597E2FE97.label = Sala 1 andar
+panorama_0421E1B7_0ECE_54A8_4185_504167001290.label = Sala principal
+panorama_04218CA7_0ECE_4CA8_4197_81CCD6ED5763.label = Suíte 02
+panorama_042148DE_0ECE_3498_419E_CF90A5848E94.label = Suíte Hóspede
+panorama_04218485_0ECD_D368_41A8_080512D8616A.label = Suíte com Varanda
+panorama_042150C9_0ECD_F4F8_4197_EF2DA1D53BDA.label = Súte Master
+panorama_316249B9_2180_F2E0_41BC_C5393818FF9C.label = Varanda st com varanda
+panorama_04212C9D_0ECD_CC98_41A4_B5ACDEBC3F8A.label = Varanda suíte master
+panorama_2AFC5908_2187_B3A0_41A2_EC867A326010.label = Wc Social
+panorama_04239BD7_0ECF_F4E8_41A8_21D9AA758778.label = Wc Suíte 02
+panorama_04226F00_0ECE_4D68_41AA_1882CC9C00E8.label = Wc Suíte Varanda
+panorama_3D720B02_1190_C649_4192_4898F7E84DD9.label = Wc social
+panorama_0423D089_0ECF_F378_41A2_087848CB0D45.label = Wc social 1 andar
+panorama_0423A7C6_0ECF_DCE8_41A6_A67A9B66DD0E.label = Wc suíte hóspede
+panorama_0422135F_0ECE_3598_416D_C10491DB7140.label = Wv suíte master
+panorama_05301462_0ECE_33A8_419C_E152BCEDF0E7.label = Área Lazer
+panorama_042034BC_0ECF_DC98_419B_22559A643B9A.label = Área Serviço externa
+panorama_042192E8_0ECE_34B8_41A2_2C7DDA861A60.label = Área serviço
+
+## Skin
+
+### Button
+Button_3FBA9A4D_1190_46DB_41B2_146A33FDF655.label = Começar
+Button_3FBA9A4D_1190_46DB_41B2_146A33FDF655_mobile.label = Começar
+
+### Image
+Image_38446830_11F0_4249_419B_C623BE07505A_mobile.url = skin/Image_38446830_11F0_4249_419B_C623BE07505A_mobile_pt.png
+Image_38446830_11F0_4249_419B_C623BE07505A.url = skin/Image_38446830_11F0_4249_419B_C623BE07505A_pt.png
+Image_3E95BE7F_1190_DEB7_415F_314E2922897C_mobile.url = skin/Image_3E95BE7F_1190_DEB7_415F_314E2922897C_mobile_pt.png
+Image_3E95BE7F_1190_DEB7_415F_314E2922897C.url = skin/Image_3E95BE7F_1190_DEB7_415F_314E2922897C_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vilas Casa Vespucci
